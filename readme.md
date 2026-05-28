@@ -147,6 +147,8 @@ Résultat attendu :
 * service fonctionne en arrière-plan.
 
 ---
+<img width="181" height="328" alt="image" src="https://github.com/user-attachments/assets/c4c526b2-7f7a-44dd-9ea7-45857568d7f3" />
+
 
 # 📚 Concepts Appris
 
